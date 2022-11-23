@@ -35,4 +35,6 @@ Description: Statically triage new samples all under one roof. Uses a variety
 Author: KrknSec
 
 ==============================================================================================
+
+[!] Please specify the path to the file you'd like to triage: /home/remnux/Samples/sample1.mal
 ```
