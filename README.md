@@ -12,7 +12,7 @@ This script automates a number of tools and scripts that are standard in REMnux 
 
 ## Todo
 
-[*] Create a Jupyter notebook version
+~~* Create a Jupyter notebook version~~
 
 ---
 
